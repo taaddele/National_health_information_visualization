@@ -1,2 +1,5 @@
-# National_health_information_visualization
-national health information visualization using django
+National Health information visualization system
+- visualizes health information collected from health institutions
+- uses plotly python package
+- uses geojson file of ethiopian regions
+- 
